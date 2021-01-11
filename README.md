@@ -1,7 +1,10 @@
 # Hi, I'm Gabriel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 ***I'm programmer...***
 
-![gatim][gatim]
+<!-- ![gatim][gatim] -->
+## How to reach me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel7ya)](https://www.linkedin.com/in/gabriel7ya)
 
 ## Languages and Tools:
 
@@ -27,11 +30,6 @@
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7ya&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/gabriel7ya) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabriel7ya&show_icons=true&theme=dracula)](https://github.com/gabriel7ya)
-
-
-## How to reach me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel7ya)](https://www.linkedin.com/in/gabriel7ya)
 
 
 [gatim]: https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "Gatim"
