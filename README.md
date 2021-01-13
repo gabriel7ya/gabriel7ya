@@ -29,7 +29,7 @@
 
 ## Stats
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7ya&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula&layout=compact)](https://github.com/gabriel7ya) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabriel7ya&show_icons=true&theme=dracula)](https://github.com/gabriel7ya)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7ya&show_icons=true&hide=html,teX&theme=dracula&layout=compact)](https://github.com/gabriel7ya) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabriel7ya&show_icons=true&theme=dracula)](https://github.com/gabriel7ya)
 
 
 [gatim]: https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "Gatim"
