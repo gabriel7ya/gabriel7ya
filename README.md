@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-***I'm programmer...***
+***I'm a programmer...***
 
 <!-- ![gatim][gatim] -->
 ## How to reach me
